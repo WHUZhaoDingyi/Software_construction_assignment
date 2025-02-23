@@ -1,0 +1,16 @@
+E:\C#\草稿\CalculatorApp\bin\Debug\net9.0-windows\CalculatorApp.exe
+E:\C#\草稿\CalculatorApp\bin\Debug\net9.0-windows\CalculatorApp.deps.json
+E:\C#\草稿\CalculatorApp\bin\Debug\net9.0-windows\CalculatorApp.runtimeconfig.json
+E:\C#\草稿\CalculatorApp\bin\Debug\net9.0-windows\CalculatorApp.dll
+E:\C#\草稿\CalculatorApp\bin\Debug\net9.0-windows\CalculatorApp.pdb
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.Form1.resources
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.csproj.GenerateResource.cache
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.AssemblyInfo.cs
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.dll
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\refint\CalculatorApp.dll
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.pdb
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\CalculatorApp.genruntimeconfig.cache
+E:\C#\草稿\CalculatorApp\obj\Debug\net9.0-windows\ref\CalculatorApp.dll

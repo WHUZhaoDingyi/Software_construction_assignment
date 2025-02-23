@@ -1,0 +1,15 @@
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.exe
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.deps.json
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.runtimeconfig.json
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.dll
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\bin\Debug\net9.0\CalculatorConsole.pdb
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.sourcelink.json
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.dll
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\refint\CalculatorConsole.dll
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.pdb
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\CalculatorConsole.genruntimeconfig.cache
+E:\C#\Software_construction_assignment\assignment1\CalculatorConsole\obj\Debug\net9.0\ref\CalculatorConsole.dll
