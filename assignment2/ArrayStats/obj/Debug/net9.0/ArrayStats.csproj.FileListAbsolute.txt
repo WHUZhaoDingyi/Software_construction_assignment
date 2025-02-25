@@ -1,0 +1,14 @@
+E:\C#\草稿\ArrayStats\bin\Debug\net9.0\ArrayStats.exe
+E:\C#\草稿\ArrayStats\bin\Debug\net9.0\ArrayStats.deps.json
+E:\C#\草稿\ArrayStats\bin\Debug\net9.0\ArrayStats.runtimeconfig.json
+E:\C#\草稿\ArrayStats\bin\Debug\net9.0\ArrayStats.dll
+E:\C#\草稿\ArrayStats\bin\Debug\net9.0\ArrayStats.pdb
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\ArrayStats.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\ArrayStats.AssemblyInfoInputs.cache
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\ArrayStats.AssemblyInfo.cs
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\ArrayStats.csproj.CoreCompileInputs.cache
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\ArrayStats.dll
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\refint\ArrayStats.dll
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\ArrayStats.pdb
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\ArrayStats.genruntimeconfig.cache
+E:\C#\草稿\ArrayStats\obj\Debug\net9.0\ref\ArrayStats.dll

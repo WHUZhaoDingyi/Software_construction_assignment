@@ -1,0 +1,15 @@
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\bin\Debug\net9.0\PrimeFactorsApp.exe
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\bin\Debug\net9.0\PrimeFactorsApp.deps.json
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\bin\Debug\net9.0\PrimeFactorsApp.runtimeconfig.json
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\bin\Debug\net9.0\PrimeFactorsApp.dll
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\bin\Debug\net9.0\PrimeFactorsApp.pdb
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\PrimeFactorsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\PrimeFactorsApp.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\PrimeFactorsApp.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\PrimeFactorsApp.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\PrimeFactorsApp.sourcelink.json
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\PrimeFactorsApp.dll
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\refint\PrimeFactorsApp.dll
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\PrimeFactorsApp.pdb
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\PrimeFactorsApp.genruntimeconfig.cache
+E:\C#\Software_construction_assignment\assignment2\PrimeFactorsApp\obj\Debug\net9.0\ref\PrimeFactorsApp.dll

@@ -1,0 +1,14 @@
+E:\C#\草稿1\ToeplitzChecker\bin\Debug\net9.0\ToeplitzChecker.exe
+E:\C#\草稿1\ToeplitzChecker\bin\Debug\net9.0\ToeplitzChecker.deps.json
+E:\C#\草稿1\ToeplitzChecker\bin\Debug\net9.0\ToeplitzChecker.runtimeconfig.json
+E:\C#\草稿1\ToeplitzChecker\bin\Debug\net9.0\ToeplitzChecker.dll
+E:\C#\草稿1\ToeplitzChecker\bin\Debug\net9.0\ToeplitzChecker.pdb
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\ToeplitzChecker.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\ToeplitzChecker.AssemblyInfoInputs.cache
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\ToeplitzChecker.AssemblyInfo.cs
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\ToeplitzChecker.csproj.CoreCompileInputs.cache
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\ToeplitzChecker.dll
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\refint\ToeplitzChecker.dll
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\ToeplitzChecker.pdb
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\ToeplitzChecker.genruntimeconfig.cache
+E:\C#\草稿1\ToeplitzChecker\obj\Debug\net9.0\ref\ToeplitzChecker.dll
