@@ -60,7 +60,7 @@ public class Rectangle : Shape
     public override bool IsValid()
     {
         // 判断矩形是否合法：两条相对边相等且长宽不等
-        return length > 0 && width > 0 && length != width;
+        return length > 0 && width > 0 ;
     }
 
     public override double CalculateArea()
@@ -107,57 +107,85 @@ public class Program
 {
     public static void Main()
     {
-        Console.WriteLine("请输入形状的边长度（用空格分隔）：");
-
-        string input = Console.ReadLine();
-        
-        // 处理输入为空的情况
-        if (string.IsNullOrWhiteSpace(input))
+        do
         {
-            Console.WriteLine("输入无效");
-            return;
-        }
+            Console.WriteLine("请输入形状的边长度（用空格分隔）：");
 
-        string[] parts = input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+            string input = Console.ReadLine();
 
-        if (parts.Length == 0)
-        {
-            Console.WriteLine("输入无效");
-            return;
-        }
-
-        double[] sides = Array.ConvertAll(parts, double.Parse);
-
-        IShape shape = null;
-
-        if (sides.Length == 3)
-        {
-            shape = new Triangle(sides[0], sides[1], sides[2]);
-        }
-        else if (sides.Length == 4)
-        {
-            if (sides[0] == sides[1] && sides[1] == sides[2] && sides[2] == sides[3])
+            // 处理输入为空的情况
+            if (string.IsNullOrWhiteSpace(input))
             {
-                shape = new Square(sides[0]);  // 正方形
+                Console.WriteLine("输入无效");
+                continue;
             }
-            else if (sides[0] == sides[2] && sides[1] == sides[3])
-            {
-                shape = new Rectangle(sides[0], sides[1]);  // 长方形
-            }
-        }
 
-        if (shape != null)
-        {
-            Console.WriteLine($"形状类型: {shape.GetShapeType()}");
-            Console.WriteLine($"形状合法: {shape.IsValid()}");
-            if (shape.IsValid())
+            string[] parts = input.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+
+            if (parts.Length == 0)
             {
-                Console.WriteLine($"面积: {shape.CalculateArea():F2}");
+                Console.WriteLine("输入无效");
+                continue;
             }
-        }
-        else
-        {
-            Console.WriteLine("无效的形状");
-        }
+
+            double[] sides;
+            try
+            {
+                sides = Array.ConvertAll(parts, double.Parse);
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("输入无效，请输入正确的数字。");
+                continue;
+            }
+
+            IShape shape = null;
+
+            if (sides.Length == 3)
+            {
+                shape = new Triangle(sides[0], sides[1], sides[2]);
+            }
+            else if (sides.Length == 4)
+            {
+                Array.Sort(sides);  // 排序便于比较
+                bool isSquare = sides[0] == sides[1] && sides[1] == sides[2] && sides[2] == sides[3];
+                bool isRectangle = sides[0] == sides[1] && sides[2] == sides[3];
+
+                if (isSquare)
+                {
+                    shape = new Square(sides[0]);
+                }
+                else if (isRectangle)
+                {
+                    shape = new Rectangle(sides[0], sides[2]);
+                }
+            }
+
+            if (shape != null)
+            {
+                Console.WriteLine($"形状类型: {shape.GetShapeType()}");
+                Console.WriteLine($"形状合法: {shape.IsValid()}");
+                if (shape.IsValid())
+                {
+                    Console.WriteLine($"面积: {shape.CalculateArea():F2}");
+                }
+            }
+            else
+            {
+                Console.WriteLine("无效的形状");
+            }
+
+            // 询问用户是否继续
+            Console.WriteLine("是否要继续输入形状？(y/n)");
+            string response = Console.ReadLine().Trim().ToLower();
+
+            if (response == "n" || response == "no")
+            {
+                break; // 退出循环
+            }
+
+        } while (true);
+
+        Console.WriteLine("程序已退出。");
     }
 }

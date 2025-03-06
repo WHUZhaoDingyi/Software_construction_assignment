@@ -1,0 +1,15 @@
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\bin\Debug\net9.0\ShapeFactory.exe
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\bin\Debug\net9.0\ShapeFactory.deps.json
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\bin\Debug\net9.0\ShapeFactory.runtimeconfig.json
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\bin\Debug\net9.0\ShapeFactory.dll
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\bin\Debug\net9.0\ShapeFactory.pdb
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ShapeFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ShapeFactory.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ShapeFactory.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ShapeFactory.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ShapeFactory.sourcelink.json
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ShapeFactory.dll
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\refint\ShapeFactory.dll
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ShapeFactory.pdb
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ShapeFactory.genruntimeconfig.cache
+E:\C#\Software_construction_assignment\assignment3\ShapeFactory\obj\Debug\net9.0\ref\ShapeFactory.dll
