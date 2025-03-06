@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ToeplitzChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7872b20b94be97764d847652891de09ef1a8527f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+995cfad1dd6a613ef6a2ef9e5a59ce65f8581d37")]
 [assembly: System.Reflection.AssemblyProductAttribute("ToeplitzChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ToeplitzChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
