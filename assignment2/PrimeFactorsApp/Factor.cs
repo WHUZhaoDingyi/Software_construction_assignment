@@ -12,12 +12,15 @@ namespace PrimeFactorsApp
         }
         static void PrintPrimeFactors(int number)
         {
+            if(number%2==0)
+            {
+                Console.Write(2+" ");
+            }
             while (number % 2 == 0)
             {
-                Console.Write(2 + " ");
                 number /= 2;
             }
-            for (int i = 3; i * i <= number; i += 2)//除1以外的素数都是奇数，所以从3开始，步长为2
+            for (int i = 3; i * i <= number; i += 2)
             {
                 while (number % i == 0)
                 {
