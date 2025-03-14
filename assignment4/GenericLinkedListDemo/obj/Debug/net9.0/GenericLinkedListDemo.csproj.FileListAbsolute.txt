@@ -1,0 +1,15 @@
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\bin\Debug\net9.0\GenericLinkedListDemo.exe
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\bin\Debug\net9.0\GenericLinkedListDemo.deps.json
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\bin\Debug\net9.0\GenericLinkedListDemo.runtimeconfig.json
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\bin\Debug\net9.0\GenericLinkedListDemo.dll
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\bin\Debug\net9.0\GenericLinkedListDemo.pdb
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\GenericLinkedListDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\GenericLinkedListDemo.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\GenericLinkedListDemo.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\GenericLinkedListDemo.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\GenericLinkedListDemo.sourcelink.json
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\GenericLinkedListDemo.dll
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\refint\GenericLinkedListDemo.dll
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\GenericLinkedListDemo.pdb
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\GenericLinkedListDemo.genruntimeconfig.cache
+E:\C#\Software_construction_assignment\assignment4\GenericLinkedListDemo\obj\Debug\net9.0\ref\GenericLinkedListDemo.dll

@@ -1,0 +1,15 @@
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\bin\Debug\net9.0\AlarmClock.exe
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\bin\Debug\net9.0\AlarmClock.deps.json
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\bin\Debug\net9.0\AlarmClock.runtimeconfig.json
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\bin\Debug\net9.0\AlarmClock.dll
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\bin\Debug\net9.0\AlarmClock.pdb
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\AlarmClock.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\AlarmClock.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\AlarmClock.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\AlarmClock.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\AlarmClock.sourcelink.json
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\AlarmClock.dll
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\refint\AlarmClock.dll
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\AlarmClock.pdb
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\AlarmClock.genruntimeconfig.cache
+E:\C#\Software_construction_assignment\assignment4\AlarmClock\obj\Debug\net9.0\ref\AlarmClock.dll
