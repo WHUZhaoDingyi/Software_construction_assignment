@@ -1,0 +1,15 @@
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\bin\Debug\net9.0\OrderManagement.exe
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\bin\Debug\net9.0\OrderManagement.deps.json
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\bin\Debug\net9.0\OrderManagement.runtimeconfig.json
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\bin\Debug\net9.0\OrderManagement.dll
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\bin\Debug\net9.0\OrderManagement.pdb
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\OrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\OrderManagement.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\OrderManagement.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\OrderManagement.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\OrderManagement.sourcelink.json
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\OrderManagement.dll
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\refint\OrderManagement.dll
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\OrderManagement.pdb
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\OrderManagement.genruntimeconfig.cache
+E:\C#\Software_construction_assignment\assignment5\OrderManagement\obj\Debug\net9.0\ref\OrderManagement.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ShapeApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OrderManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ab22625668035a4e0276571a8814050f9de59ae")]
-[assembly: System.Reflection.AssemblyProductAttribute("ShapeApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ShapeApp")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb013f4723d6374290c04f094334792c78ebb11e")]
+[assembly: System.Reflection.AssemblyProductAttribute("OrderManagement")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OrderManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
