@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
+
 // 商品类
 public class Goods
 {
@@ -53,7 +54,7 @@ public class Order : IEquatable<Order>
     
     public override string ToString() =>
         $"订单号：{OrderId}\n客户：{Customer}\n总金额：¥{Total}\n" +
-        "明细：" + string.Join("\n  ", Details) + "\n";
+        "明细：" + string.Join("\n  ", Details) + "\n"+"\n";
 }
 
 // 订单服务类
@@ -100,9 +101,12 @@ public class OrderService
             .OrderBy(o => o.Total);
 
     // 排序
-    public void SortOrders(Comparison<Order> comparison = null) =>
-        orders.Sort(comparison ?? ((x, y) => 
+    public void SortOrders(Comparison<Order> comparison = null)
+    {
+        // 如果没有传入自定义比较器，则默认按 OrderId 排序
+        orders.Sort(comparison ?? ((x, y) =>
             string.Compare(x.OrderId, y.OrderId, StringComparison.Ordinal)));
+    }
 }
 
 class Program
@@ -144,3 +148,4 @@ class Program
         }
     }
 }
+
