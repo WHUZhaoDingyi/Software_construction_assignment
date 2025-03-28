@@ -1,0 +1,5 @@
+E:\C#\Software_construction_assignment\assignment6\OrderCore\obj\Debug\net9.0\OrderCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment6\OrderCore\obj\Debug\net9.0\OrderCore.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment6\OrderCore\obj\Debug\net9.0\OrderCore.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment6\OrderCore\obj\Debug\net9.0\OrderCore.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment6\OrderCore\obj\Debug\net9.0\OrderCore.sourcelink.json
