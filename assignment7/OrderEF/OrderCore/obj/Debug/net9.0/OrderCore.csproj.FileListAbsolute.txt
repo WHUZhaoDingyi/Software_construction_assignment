@@ -1,0 +1,13 @@
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\bin\Debug\net9.0\OrderCore.deps.json
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\bin\Debug\net9.0\OrderCore.dll
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\bin\Debug\net9.0\OrderCore.pdb
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\OrderCore.csproj.AssemblyReference.cache
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\OrderCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\OrderCore.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\OrderCore.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\OrderCore.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\OrderCore.sourcelink.json
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\OrderCore.dll
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\refint\OrderCore.dll
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\OrderCore.pdb
+E:\C#\Software_construction_assignment\assignment7\OrderEF\OrderCore\obj\Debug\net9.0\ref\OrderCore.dll
