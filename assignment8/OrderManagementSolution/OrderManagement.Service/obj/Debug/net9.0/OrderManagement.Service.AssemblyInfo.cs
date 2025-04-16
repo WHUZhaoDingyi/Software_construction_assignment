@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("OrderConsole")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("OrderManagement.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad1e9688b8976c0da1123d49216d5bb21c5835e")]
-[assembly: System.Reflection.AssemblyProductAttribute("OrderConsole")]
-[assembly: System.Reflection.AssemblyTitleAttribute("OrderConsole")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("OrderManagement.Service")]
+[assembly: System.Reflection.AssemblyTitleAttribute("OrderManagement.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
