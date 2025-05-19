@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {}
+    "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {}
   },
   "projects": {
-    "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
+    "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.Domain\\OrderManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+        "projectUniqueName": "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
         "projectName": "OrderManagement.Domain",
-        "projectPath": "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
+        "projectPath": "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.Domain\\OrderManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Lenovo13\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.Domain\\obj\\",
+        "outputPath": "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "D:\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

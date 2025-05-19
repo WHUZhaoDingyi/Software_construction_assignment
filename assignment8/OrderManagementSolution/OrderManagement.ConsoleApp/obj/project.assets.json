@@ -737,11 +737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.ConsoleApp\\OrderManagement.ConsoleApp.csproj",
+      "projectUniqueName": "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.ConsoleApp\\OrderManagement.ConsoleApp.csproj",
       "projectName": "OrderManagement.ConsoleApp",
-      "projectPath": "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.ConsoleApp\\OrderManagement.ConsoleApp.csproj",
+      "projectPath": "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.ConsoleApp\\OrderManagement.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Lenovo13\\.nuget\\packages\\",
-      "outputPath": "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.ConsoleApp\\obj\\",
+      "outputPath": "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -756,14 +756,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.Service\\OrderManagement.Service.csproj": {
-              "projectPath": "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.Service\\OrderManagement.Service.csproj"
+            "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.Service\\OrderManagement.Service.csproj": {
+              "projectPath": "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.Service\\OrderManagement.Service.csproj"
             }
           }
         }
@@ -799,7 +800,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "D:\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

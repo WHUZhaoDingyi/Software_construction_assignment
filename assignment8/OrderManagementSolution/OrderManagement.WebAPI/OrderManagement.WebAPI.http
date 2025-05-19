@@ -1,6 +1,65 @@
 @OrderManagement.WebAPI_HostAddress = http://localhost:5122
+@baseUrl = http://localhost:5000
+@contentType = application/json
 
 GET {{OrderManagement.WebAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
+### 获取所有订单
+GET {{baseUrl}}/api/orders
+Accept: {{contentType}}
+
+### 根据ID获取订单
+GET {{baseUrl}}/api/orders/1
+Accept: {{contentType}}
+
+### 根据客户名称查询订单
+GET {{baseUrl}}/api/orders/customer/张三
+Accept: {{contentType}}
+
+### 根据订单号查询订单
+GET {{baseUrl}}/api/orders/orderNumber/ORD-001
+Accept: {{contentType}}
+
+### 创建新订单
+POST {{baseUrl}}/api/orders
+Content-Type: {{contentType}}
+
+{
+  "orderNumber": "ORD-003",
+  "customer": "王五",
+  "orderDetails": [
+    {
+      "productName": "商品A",
+      "amount": 500.00
+    },
+    {
+      "productName": "商品B",
+      "amount": 300.00
+    }
+  ]
+}
+
+### 更新订单
+PUT {{baseUrl}}/api/orders/3
+Content-Type: {{contentType}}
+
+{
+  "id": 3,
+  "orderNumber": "ORD-003",
+  "customer": "王五(已修改)",
+  "orderDetails": [
+    {
+      "productName": "商品A(已修改)",
+      "amount": 550.00
+    },
+    {
+      "productName": "商品C",
+      "amount": 450.00
+    }
+  ]
+}
+
+### 删除订单
+DELETE {{baseUrl}}/api/orders/3
+Accept: {{contentType}}

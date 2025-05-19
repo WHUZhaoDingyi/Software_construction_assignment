@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XkJZ+FbRx5E=",
+  "dgSpecHash": "KXB+03hNcyE=",
   "success": true,
-  "projectFilePath": "E:\\C#\\aasignment8\\OrderManagementSolution\\OrderManagement.ConsoleApp\\OrderManagement.ConsoleApp.csproj",
+  "projectFilePath": "E:\\C#\\Software_construction_assignment\\assignment8\\OrderManagementSolution\\OrderManagement.ConsoleApp\\OrderManagement.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo13\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
     "C:\\Users\\Lenovo13\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.4\\microsoft.entityframeworkcore.abstractions.9.0.4.nupkg.sha512",

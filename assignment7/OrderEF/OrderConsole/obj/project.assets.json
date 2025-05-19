@@ -878,8 +878,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.4",
-          "Pomelo.EntityFrameworkCore.MySql": "8.0.0"
+          "Microsoft.EntityFrameworkCore": "9.0.5",
+          "Pomelo.EntityFrameworkCore.MySql": "9.0.0"
         },
         "compile": {
           "bin/placeholder/OrderCore.dll": {}
@@ -2351,6 +2351,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2414,8 +2415,28 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "D:\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "错误形式的警告: 检测到包降级: Microsoft.EntityFrameworkCore 从 9.0.5 降级到 8.0.4。直接从项目引用包以选择不同版本。 \r\n OrderConsole -> OrderCore -> Microsoft.EntityFrameworkCore (>= 9.0.5) \r\n OrderConsole -> Microsoft.EntityFrameworkCore (>= 8.0.4)",
+      "libraryId": "Microsoft.EntityFrameworkCore",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "错误形式的警告: 检测到包降级: Pomelo.EntityFrameworkCore.MySql 从 9.0.0 降级到 8.0.0。直接从项目引用包以选择不同版本。 \r\n OrderConsole -> OrderCore -> Pomelo.EntityFrameworkCore.MySql (>= 9.0.0) \r\n OrderConsole -> Pomelo.EntityFrameworkCore.MySql (>= 8.0.0)",
+      "libraryId": "Pomelo.EntityFrameworkCore.MySql",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,6 @@
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.WinFormsApp\obj\Debug\net9.0-windows\OrderManagement.WinFormsApp.csproj.AssemblyReference.cache
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.WinFormsApp\obj\Debug\net9.0-windows\OrderManagement.WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.WinFormsApp\obj\Debug\net9.0-windows\OrderManagement.WinFormsApp.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.WinFormsApp\obj\Debug\net9.0-windows\OrderManagement.WinFormsApp.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.WinFormsApp\obj\Debug\net9.0-windows\OrderManagement.WinFormsApp.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.WinFormsApp\obj\Debug\net9.0-windows\OrderManagement.WinFormsApp.sourcelink.json

@@ -10,3 +10,15 @@ E:\C#\Software_construction_assignment\aasignment8\OrderManagementSolution\Order
 E:\C#\Software_construction_assignment\aasignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\refint\OrderManagement.Domain.dll
 E:\C#\Software_construction_assignment\aasignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.pdb
 E:\C#\Software_construction_assignment\aasignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\ref\OrderManagement.Domain.dll
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\bin\Debug\net9.0\OrderManagement.Domain.deps.json
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\bin\Debug\net9.0\OrderManagement.Domain.dll
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\bin\Debug\net9.0\OrderManagement.Domain.pdb
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.AssemblyInfoInputs.cache
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.AssemblyInfo.cs
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.csproj.CoreCompileInputs.cache
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.sourcelink.json
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.dll
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\refint\OrderManagement.Domain.dll
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\OrderManagement.Domain.pdb
+E:\C#\Software_construction_assignment\assignment8\OrderManagementSolution\OrderManagement.Domain\obj\Debug\net9.0\ref\OrderManagement.Domain.dll
